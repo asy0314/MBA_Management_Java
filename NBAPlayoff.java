@@ -1,5 +1,5 @@
 //Name: Sunyoung An
-//Due Date: July 27
+//Due Date: July 27, 2021
 //Title: NBAPlayoff
 //Description: A class that extends JFrame to showing an NBA Team on a Basketball court using Swing(Graphical User Interface (GUI)
 //==============================================================================
