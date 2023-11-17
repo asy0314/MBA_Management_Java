@@ -1,7 +1,7 @@
 //Name: Sunyoung An
-//Due Date: July 27
+//Due Date: July 27, 2021
 //Title: NBATeam
-//Description: A class with the array of players' names and ages
+//Description: A class with the array of players' names and ages. It is a class file, and the main method is in the file 'NBAPlayoff.java'.
 //==============================================================================
 import java.util.ArrayList;
 
