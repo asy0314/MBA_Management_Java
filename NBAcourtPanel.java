@@ -1,5 +1,5 @@
 //Name: Sunyoung An
-//Due Date: July 27
+//Due Date: July 27, 2021
 //Title: NBAcourtPanel
 //Description: A class that extends Jpanel
 //==============================================================================
