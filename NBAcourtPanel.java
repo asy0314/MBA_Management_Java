@@ -1,7 +1,7 @@
 //Name: Sunyoung An
 //Due Date: July 27, 2021
 //Title: NBAcourtPanel
-//Description: A class that extends Jpanel
+//Description: A class that extends Jpanel. It is a class file, and the main method is in the file 'NBAPlayoff.java'.
 //==============================================================================
 import java.awt.*;
 import javax.swing.*;
