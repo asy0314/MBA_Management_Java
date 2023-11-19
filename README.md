@@ -2,7 +2,7 @@
 NBA_Court_Management using Swing(Graphical User Interface(GUI))
 
 # How to run
-1. Install Eclipse IDE 2020-12 version on your computer.
+1. Install Eclipse on your computer.
 
 2. Save all files in a folder, and go to the directory in Eclipse IDE.
  
